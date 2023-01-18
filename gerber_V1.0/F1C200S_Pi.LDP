@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: F:\Git\F1C200S_Linux_Board\Ó²¼þ\F1C200S_DIY_BGR\F1C200S_Pi.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=f1c200s_pi-roundholes-plated.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Plated_Slot_Holes|DrillFile=f1c200s_pi-slotholes-plated.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=f1c200s_pi-roundholes-nonplated.txt|DrillLayers=gtl,g1,g2,gbl
